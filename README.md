@@ -1,6 +1,17 @@
 # Samantha R. Sexton - Full Stack Web Developer Portfolio
 This is the repo for my personal site - detailing my work and experience as a
 full stack developer.
+UPDATE: I have recently decided to redesign my portfolio to better reflect new skills/interests/objectives, and as such this project is no longer hosted live. To view it you may pull the project & `open index.html`. Otherwise I have included some screenshots below for posterity.
+
+### The repo for my updated portfolio is [here: srsexton.github.io](https://github.com/srsexton94/srsexton94.github.io)
+
+## Screenshots:
+![](img/screenshot1.png)
+![](img/screenshot2.png)
+![](img/screenshot3.png)
+![](img/screenshot4.png)
+![](img/screenshot5.png)
+![](img/screenshot6.png)
 
 ## To Include:
 * About Me
